@@ -1,0 +1,43 @@
+.button-addTxt {
+	display: inline-block;
+	height: 40px;
+	width: 100px;
+}
+
+.button-addHdr {
+	display: inline-block;
+	height: 25px;
+	width: 100px;
+	background-color: green;
+}
+
+.button-addUl {
+	display: inline-block;
+	height: 25px;
+	width: 100px;
+	background-color: orange;
+}
+
+/*This is for JS4.1 Part III*/
+.btn {
+	margin: 50% 50%;
+	height: 400px;
+	width: 400px;
+	background-color: peachpuff;
+}
+
+.popup {
+	position: fixed;
+	padding: 5%;
+	width: 200px;
+	height: 200px;
+	background-color: gray;
+}
+
+.btn-close {
+	display: inline-block;
+	float: right;
+	bottom: 0;
+	right: 0;
+	height: 25px;
+}
